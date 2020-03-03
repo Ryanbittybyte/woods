@@ -1,6 +1,9 @@
 .navbar{font-style: normal;}
 .navbarNav{text-align: end;
 }
+.navbar-inner {
+    background:transparent;
+}
 body {font-family: 'Open Sans', ;}
 .collapse{ justify-content: flex-end;}
 .content{

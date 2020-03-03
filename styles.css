@@ -4,13 +4,17 @@
 body {font-family: 'Open Sans', ;}
 .collapse{ justify-content: flex-end;}
 .content{
-    padding: 10px ;
+    padding: 40px ;
     display: flex ;
     flex-wrap: wrap;
     justify-content: center;
-    padding: 10px;}
-    img{ margin: 20px 30px 20px 0px;
-    image-resolution: 500px auto
-    ;}
-    //https://stackoverflow.com/questions/15685666/changing-image-sizes-proportionally-using-css
-    
+    }
+   .content img{ width: 400px;
+    height: 400px;
+    margin: 20px 30px 20px 0px;
+    }
+   
+.space {
+    background-image: url(https://images.pexels.com/photos/1252890/pexels-photo-1252890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  }
+  .white{color: white;}

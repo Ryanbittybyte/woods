@@ -1,4 +1,16 @@
 .navbar{font-style: normal;}
-font-family: 'Open Sans', ;}
+.navbarNav{text-align: end;
+}
+body {font-family: 'Open Sans', ;}
 .collapse{ justify-content: flex-end;}
-.content{margin: 10px auto, 40px auto;}
+.content{
+    padding: 10px ;
+    display: flex ;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;}
+    img{ margin: 20px 30px 20px 0px;
+    image-resolution: 500px auto
+    ;}
+    //https://stackoverflow.com/questions/15685666/changing-image-sizes-proportionally-using-css
+    

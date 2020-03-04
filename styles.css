@@ -1,4 +1,6 @@
-.navbar{font-style: normal;}
+.navbar{font-style: normal;
+}
+//add position:fixed
 .navbarNav{text-align: end;
 }
 .navbar-inner {
